@@ -1,5 +1,3 @@
-# skd-mvp
-The MVP.
+# THIS PROJECT HAS MOVED
 
-# Dependencies
-You need to download three.js. three.min.js is included in /client-media.
+new url: ![https://github.com/skd-game/mvp](https://github.com/skd-game/mvp)
